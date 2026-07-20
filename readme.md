@@ -2,6 +2,9 @@
 
 Uma recriação responsiva e interativa de uma landing page clássica da Starbucks. Este projeto foi desenvolvido com foco em fidelidade visual, estruturação semântica e usabilidade em diferentes dispositivos, unindo boas práticas de interface com desenvolvimento Front-End.
 
+🔗 https://natr-oliveira.github.io/Starbucks/
+<img width="1962" height="912" alt="image" src="https://github.com/user-attachments/assets/59ba10fd-de8e-4880-ba1a-1cdb4404a37c" />
+
 ## 📌 Sobre o Projeto
 
 O objetivo deste projeto foi construir uma interface limpa e moderna, aplicando conceitos avançados de CSS (Grid e Flexbox) e implementando interatividade com JavaScript puro (Vanilla JS). O layout adapta-se perfeitamente a telas de desktop, tablets e smartphones, oferecendo uma experiência de navegação contínua.
@@ -26,5 +29,6 @@ O objetivo deste projeto foi construir uma interface limpa e moderna, aplicando 
 Como é um projeto estático, não é necessária nenhuma instalação complexa.
 
 1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/starbucks-landing-page.git](https://github.com/SEU-USUARIO/starbucks-landing-page.git)
+  `git clone https://github.com/natr-oliveira/Starbucks.git`
+2. Abra a pasta do projeto.
+3. Dê um duplo clique no arquivo `index.html` para abrir no seu navegador padrão.
